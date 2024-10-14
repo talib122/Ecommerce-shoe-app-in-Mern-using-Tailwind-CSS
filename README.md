@@ -8,10 +8,11 @@
   <li>Open project in vs code</li>
   <li>In terminal type:
     <ol>
-  <li>cd ./frontend</li>
-  <li>npm install</li>
-  <li>npm start</li>
-  <li>Do same for backend</li>
+  <li>cd ./backend</li>
+  <li>npm install</li>&nbsp;&nbsp;&nbsp;&nbsp;//for installing dependencies listed in package.json file
+  <li>npm start</li>&nbsp;&nbsp;&nbsp;//for starting project
+  <li>open new terminal</li>
+  <li>Do same for frontend</li>
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
