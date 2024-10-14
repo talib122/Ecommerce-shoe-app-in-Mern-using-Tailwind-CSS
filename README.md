@@ -15,4 +15,8 @@
   <li>Congragulations!! Project is running</li>
     </ol>
 </ol>
-<!-- <img src="my sign.jpg" alt="My Sign" width="500"/> -->
+
+integrtated frontend with backend and used mongoDB database and its Completely responsive
+check demo video below
+
+https://github.com/user-attachments/assets/f290e5ed-4e25-4d9e-8563-2169ce7c5f9b
