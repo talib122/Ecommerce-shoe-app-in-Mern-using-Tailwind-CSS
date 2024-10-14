@@ -9,8 +9,8 @@
   <li>In terminal type:
     <ol>
   <li>cd ./backend</li>
-  <li>npm install</li>&nbsp;&nbsp;&nbsp;&nbsp;//for installing dependencies listed in package.json file
-  <li>npm start</li>&nbsp;&nbsp;&nbsp;//for starting project
+  <li>npm install&nbsp;&nbsp;&nbsp;&nbsp;//for installing dependencies listed in package.json file</li>
+  <li>npm start&nbsp;&nbsp;&nbsp;//for starting project</li>
   <li>open new terminal</li>
   <li>Do same for frontend</li>
   <li>Congragulations!! Project is running</li>
